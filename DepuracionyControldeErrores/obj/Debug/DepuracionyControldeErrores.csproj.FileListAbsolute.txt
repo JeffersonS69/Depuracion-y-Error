@@ -1,0 +1,12 @@
+C:\Users\Estudiante\source\repos\DepuracionyControldeErrores\DepuracionyControldeErrores\bin\Debug\DepuracionyControldeErrores.exe.config
+C:\Users\Estudiante\source\repos\DepuracionyControldeErrores\DepuracionyControldeErrores\bin\Debug\DepuracionyControldeErrores.exe
+C:\Users\Estudiante\source\repos\DepuracionyControldeErrores\DepuracionyControldeErrores\bin\Debug\DepuracionyControldeErrores.pdb
+C:\Users\Estudiante\source\repos\DepuracionyControldeErrores\DepuracionyControldeErrores\obj\Debug\DepuracionyControldeErrores.csproj.AssemblyReference.cache
+C:\Users\Estudiante\source\repos\DepuracionyControldeErrores\DepuracionyControldeErrores\obj\Debug\DepuracionyControldeErrores.csproj.SuggestedBindingRedirects.cache
+C:\Users\Estudiante\source\repos\DepuracionyControldeErrores\DepuracionyControldeErrores\obj\Debug\DepuracionyControldeErrores.frmDepuracion.resources
+C:\Users\Estudiante\source\repos\DepuracionyControldeErrores\DepuracionyControldeErrores\obj\Debug\DepuracionyControldeErrores.Properties.Resources.resources
+C:\Users\Estudiante\source\repos\DepuracionyControldeErrores\DepuracionyControldeErrores\obj\Debug\DepuracionyControldeErrores.csproj.GenerateResource.cache
+C:\Users\Estudiante\source\repos\DepuracionyControldeErrores\DepuracionyControldeErrores\obj\Debug\DepuracionyControldeErrores.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\source\repos\DepuracionyControldeErrores\DepuracionyControldeErrores\obj\Debug\DepuracionyControldeErrores.exe
+C:\Users\Estudiante\source\repos\DepuracionyControldeErrores\DepuracionyControldeErrores\obj\Debug\DepuracionyControldeErrores.pdb
+C:\Users\Estudiante\source\repos\DepuracionyControldeErrores\DepuracionyControldeErrores\obj\Debug\DepuracionyControldeErrores.frmFactorial.resources

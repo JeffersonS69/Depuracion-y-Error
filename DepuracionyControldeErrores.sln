@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DepuracionyControldeErrores", "DepuracionyControldeErrores\DepuracionyControldeErrores.csproj", "{69C11C75-2FB1-41A0-8E0C-D21A26A3381D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69C11C75-2FB1-41A0-8E0C-D21A26A3381D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69C11C75-2FB1-41A0-8E0C-D21A26A3381D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69C11C75-2FB1-41A0-8E0C-D21A26A3381D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69C11C75-2FB1-41A0-8E0C-D21A26A3381D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {115F9955-4D35-46BA-895C-709FCE419679}
+	EndGlobalSection
+EndGlobal
