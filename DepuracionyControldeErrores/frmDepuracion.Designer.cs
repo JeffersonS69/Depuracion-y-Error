@@ -35,6 +35,7 @@
             this.txtResultado = new System.Windows.Forms.TextBox();
             this.label3 = new System.Windows.Forms.Label();
             this.btnBoton = new System.Windows.Forms.Button();
+            this.btnInspeccion = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // label1
@@ -96,11 +97,22 @@
             this.btnBoton.UseVisualStyleBackColor = true;
             this.btnBoton.Click += new System.EventHandler(this.btnBoton_Click);
             // 
+            // btnInspeccion
+            // 
+            this.btnInspeccion.Location = new System.Drawing.Point(429, 189);
+            this.btnInspeccion.Name = "btnInspeccion";
+            this.btnInspeccion.Size = new System.Drawing.Size(139, 69);
+            this.btnInspeccion.TabIndex = 7;
+            this.btnInspeccion.Text = "Inspección de variables";
+            this.btnInspeccion.UseVisualStyleBackColor = true;
+            this.btnInspeccion.Click += new System.EventHandler(this.btnInspeccion_Click);
+            // 
             // frmDepuracion
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.btnInspeccion);
             this.Controls.Add(this.btnBoton);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.txtResultado);
@@ -125,6 +137,7 @@
         private System.Windows.Forms.TextBox txtResultado;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Button btnBoton;
+        private System.Windows.Forms.Button btnInspeccion;
     }
 }
 

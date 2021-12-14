@@ -37,5 +37,22 @@ namespace DepuracionyControldeErrores
             }
             this.txtResultado.Text = suma.ToString();
         }
+
+        private void btnInspeccion_Click(object sender, EventArgs e)
+        {
+            int num = 55;
+            while(num>0)
+            {
+                num /= 2;
+                if (num % 2 == 0)
+                {
+                    Console.WriteLine("El resto es cero");
+                }
+                else
+                {
+                    Console.WriteLine("El resto es uno");
+                }
+            }
+        }
     }
 }
